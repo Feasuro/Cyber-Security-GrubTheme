@@ -8,11 +8,6 @@ Cyber Security theme for Grub2.
 
 Supported languages: English, French, German, Norwegian, Portuguese, Russian, Ukrainian, Chinese (simplified).
 
-
-NOTICE: This theme looks best on lower resolution screens.
-(Best results 1280x1024) (Created on a QEMU-KVM VM with a 1280x1024 display)
-I am currently working on another version for higher resolution screens..
-
 ____________________________________________________________________________
 
 Install:
@@ -36,6 +31,8 @@ Done!
 ____________________________________________________________________________
 
 Created by p0wder (https://github.com/PowderLinux)
+
+Edited by Feasuro (https://github.com/Feasuro)
 
 
 Credits:

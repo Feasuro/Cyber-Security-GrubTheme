@@ -69,13 +69,13 @@ terminal-border: "0"
 
 # Boot Menu (Bottom)
 + boot_menu {
-  left = 50%-190
-  width = 375
-  top = 50%
-  height = 300
+  left = 42%
+  width = 35%
+  top = 52%
+  height = 47%
   item_font = "DejaVu Regular 14"
   item_color = "#000000"
-  selected_item_color = "#000000"
+  selected_item_color = "#880000"
   item_height = 40
   item_spacing = 4
   scrollbar = false
